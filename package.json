@@ -1,0 +1,16 @@
+{
+  "name": "profanity-checker",
+  "version": "1.0.0",
+  "description": "Profanity Checker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "dev": "node index.js"
+  },
+  "author": "Anand Lahoti",
+  "license": "ISC",
+  "dependencies": {
+    "@coffeeandfun/google-profanity-words": "^2.1.0"
+  }
+}
