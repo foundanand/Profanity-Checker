@@ -15,3 +15,6 @@ const hasCurseWords = await profanity.hasCurseWords(sentence);
 
 
 console.log(hasCurseWords);
+
+
+// Add data set
